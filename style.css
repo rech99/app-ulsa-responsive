@@ -1,0 +1,16 @@
+.nav-bar{
+    width: 100%;
+    margin: 0
+}
+
+.option{
+    margin:0;
+    color: red;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+body{
+background-color: black;
+margin: 0 auto;
+}
